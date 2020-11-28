@@ -1,4 +1,4 @@
-require 'byebug'
+#require 'byebug'
 
 class Usuario
     attr_accessor :cuenta_bancaria,  :nombre
